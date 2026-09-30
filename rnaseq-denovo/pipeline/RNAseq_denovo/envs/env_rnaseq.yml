@@ -1,0 +1,16 @@
+name: rnaseq
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.9
+  - fastp=0.236
+  - trinity=2.15.2
+  - transdecoder=6.0.0
+  - salmon
+  - hmmer=3.4
+  - seqkit=2.13.0
+  - samtools=1.17
+  - sra-tools=2.11.0
+  - seqtk

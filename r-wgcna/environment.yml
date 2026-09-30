@@ -1,0 +1,10 @@
+name: r-wgcna
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - r-base>=4.2
+  - r-pheatmap
+  - r-fastcluster
+  - bioconductor-wgcna

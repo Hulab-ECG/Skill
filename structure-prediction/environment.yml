@@ -1,0 +1,9 @@
+name: structure-prediction
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python>=3.9
+  - diamond>=2.1
+  - biopython

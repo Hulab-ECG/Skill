@@ -1,0 +1,3 @@
+interface:
+  display_name: "RNAseq De Novo"
+  short_description: "Trinity + TransDecoder + Salmon de novo RNA-seq"

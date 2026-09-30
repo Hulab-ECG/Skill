@@ -1,0 +1,3 @@
+interface:
+  display_name: "R-WGCNA"
+  short_description: "Run standardized WGCNA co-expression and candidate mining workflows"

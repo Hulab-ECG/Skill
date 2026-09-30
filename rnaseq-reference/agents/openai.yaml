@@ -1,0 +1,5 @@
+---
+interface:
+  display_name: "RNAseq Reference"
+  short_description: "HISAT2 + StringTie reference RNA-seq quantification pipeline"
+---

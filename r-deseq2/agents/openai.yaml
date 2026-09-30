@@ -1,0 +1,3 @@
+interface:
+  display_name: "R-DEseq2"
+  short_description: "Run standardized DESeq2 differential expression workflows"
